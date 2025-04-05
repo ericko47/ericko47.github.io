@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charet "UTF-8";
 
 /* =================================================================== 
  * Hudson Main Stylesheet
@@ -3372,11 +3372,11 @@ td:last-child {
 .s-intro {
     --content-padding-top   : max(20rem, 18vh);
     --content-padding-bottom: 8rem;
-    --content-min-height    : calc(var(--vspace-1) * 27);
+    /* --content-min-height    : calc(var(--vspace-1) * 27); */
     z-index                 : 2;
-    background-color        : var(--color-gray-10);
+    /* background-color        : var(--color-gray-10); */
     width                   : 100%;
-    height                  : max(var(--content-min-height), 100vh);
+    /* height                  : max(var(--content-min-height), 100vh); */
     overflow                : hidden;
     position                : relative;
 }

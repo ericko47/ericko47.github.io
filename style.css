@@ -2,14 +2,14 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #0e101c;
+    background-color: #0e101c !important;
     color: #F5F5F5;
 }
 
 header {
     background-color: #1a1c2b;
     padding: 20px;
-    text-align: center;
+    /* text-align: center; */
 }
 
 header h1 {
@@ -25,14 +25,14 @@ nav a {
 
 main {
     padding: 40px;
-    text-align: center;
+    /* text-align: center; */
 }
 
 footer {
     background-color: #1a1c2b;
     padding: 10px;
     text-align: center;
-    position: fixed;
+    /* position: fixed; */
     width: 100%;
     bottom: 0;
 }
