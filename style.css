@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #0e101c;
-    color: white;
+    color: #F5F5F5;
 }
 
 header {
@@ -14,12 +14,12 @@ header {
 
 header h1 {
     margin: 0;
-    color: #00d8ff;
+    color: #4169E1;
 }
 
 nav a {
     margin: 0 15px;
-    color: #ffffff;
+    color: #F5F5F5;
     text-decoration: none;
 }
 
