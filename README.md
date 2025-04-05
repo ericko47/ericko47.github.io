@@ -58,7 +58,7 @@ While this is a personal project, I welcome ideas and collaboration from fellow 
 ## 📧 Contact
 
 - GitHub: [@ericko47](https://github.com/ericko47)
-- Email: yourname@example.com (replace with your actual email)
+- Email: erickogutu47@gmail.com or erick123omo@gmail.com
 
 ---
 
