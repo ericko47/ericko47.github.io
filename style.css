@@ -10,6 +10,7 @@ header {
     background-color: #1a1c2b;
     padding: 20px;
     /* text-align: center; */
+    
 }
 
 header h1 {
@@ -17,7 +18,7 @@ header h1 {
     color: #4169E1;
 }
 
-nav a {
+a {
     margin: 0 15px;
     color: #F5F5F5;
     text-decoration: none;
@@ -32,7 +33,7 @@ footer {
     background-color: #1a1c2b;
     padding: 10px;
     text-align: center;
-    /* position: fixed; */
+    position: fixed;
     width: 100%;
     bottom: 0;
 }
